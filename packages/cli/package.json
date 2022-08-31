@@ -1,5 +1,5 @@
 {
-  "name": "reactanywhere",
+  "name": "code-anywhere",
   "version": "1.0.0",
   "description": "",
   "files": [
@@ -17,13 +17,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@reactanywhere/local-client": "^1.0.0"
+    "@code-anywhere/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "@reactanywhere/local-api": "^1.0.0",
+    "@code-anywhere/local-api": "^1.0.0",
     "@types/node": "^18.7.13",
     "commander": "^9.4.0",
     "esbuild": "0.8.26",
     "typescript": "^4.7.4"
-  }
+  },
+  "gitHead": "b1eb0854c7c3d83edbb46b22d6c57e1253338024"
 }
