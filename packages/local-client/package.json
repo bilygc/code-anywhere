@@ -1,5 +1,5 @@
 {
-  "name": "@reactanywhere/local-client",
+  "name": "@code-anywhere/local-client",
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
@@ -67,5 +67,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "b1eb0854c7c3d83edbb46b22d6c57e1253338024"
 }
